@@ -1,4 +1,4 @@
-# oding Exercise 1
+# Coding Exercise 15.1
 # Your task is to create a program that generates a random whole number. Here is how the program should behave:
 # Enter the lower bound: 1
 # Enter the upper bound: 10
